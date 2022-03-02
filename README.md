@@ -4,7 +4,7 @@ Install and configure glusterfs on your system.
 
 |GitHub|GitLab|Quality|Downloads|Version|
 |------|------|-------|---------|-------|
-|[![github](https://github.com/buluma/ansible-role-glusterfs/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-glusterfs/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-glusterfs/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-glusterfs)|[![quality](https://img.shields.io/ansible/quality/54989)](https://galaxy.ansible.com/buluma/glusterfs)|[![downloads](https://img.shields.io/ansible/role/d/54989)](https://galaxy.ansible.com/buluma/glusterfs)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-glusterfs.svg)](https://github.com/buluma/ansible-role-glusterfs/releases/)|
+|[![github](https://github.com/buluma/ansible-role-glusterfs/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-glusterfs/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-glusterfs/badges/master/pipeline.svg)](https://gitlab.com/buluma/ansible-role-glusterfs)|[![quality](https://img.shields.io/ansible/quality/54989)](https://galaxy.ansible.com/buluma/glusterfs)|[![downloads](https://img.shields.io/ansible/role/d/54989)](https://galaxy.ansible.com/buluma/glusterfs)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-glusterfs.svg)](https://github.com/buluma/ansible-role-glusterfs/releases/)|
 
 ## [Example Playbook](#example-playbook)
 
