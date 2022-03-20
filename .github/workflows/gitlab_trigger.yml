@@ -2,8 +2,9 @@
 name: Mirror and run GitLab CI
 
 on: [push]
-concurrency: 
-  group: ${{ github.workflow }}-${{ github.ref }}
+
+concurrency:
+  group: ${{ github.ref }}-${{ github.workflow }}
   cancel-in-progress: true
 
 jobs:
