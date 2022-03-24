@@ -2,9 +2,9 @@
 
 Install and configure glusterfs on your system.
 
-|GitHub|GitLab|Quality|Downloads|Version|
-|------|------|-------|---------|-------|
-|[![github](https://github.com/buluma/ansible-role-glusterfs/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-glusterfs/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-glusterfs/badges/master/pipeline.svg)](https://gitlab.com/buluma/ansible-role-glusterfs)|[![quality](https://img.shields.io/ansible/quality/54989)](https://galaxy.ansible.com/buluma/glusterfs)|[![downloads](https://img.shields.io/ansible/role/d/54989)](https://galaxy.ansible.com/buluma/glusterfs)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-glusterfs.svg)](https://github.com/buluma/ansible-role-glusterfs/releases/)|
+|GitHub|GitLab|Quality|Downloads|Version|Issues|Pull Requests|
+|------|------|-------|---------|-------|------|-------------|
+|[![github](https://github.com/buluma/ansible-role-glusterfs/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-glusterfs/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-glusterfs/badges/master/pipeline.svg)](https://gitlab.com/buluma/ansible-role-glusterfs)|[![quality](https://img.shields.io/ansible/quality/54989)](https://galaxy.ansible.com/buluma/glusterfs)|[![downloads](https://img.shields.io/ansible/role/d/54989)](https://galaxy.ansible.com/buluma/glusterfs)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-glusterfs.svg)](https://github.com/buluma/ansible-role-glusterfs/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-glusterfs.svg)](https://github.com/buluma/ansible-role-glusterfs/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-glusterfs.svg)](https://github.com/buluma/ansible-role-glusterfs/pulls/)|
 
 ## [Example Playbook](#example-playbook)
 
@@ -30,7 +30,7 @@ The machine needs to be prepared. In CI this is done using `molecule/default/pre
 
   roles:
     - role: buluma.bootstrap
-    - role: robertdebock.apt_autostart
+    - role: buluma.apt_autostart
 ```
 
 
@@ -68,7 +68,7 @@ The following roles are used to prepare a system. You can prepare your system in
 
 | Requirement | GitHub | GitLab |
 |-------------|--------|--------|
-|[robertdebock.apt_autostart](https://galaxy.ansible.com/buluma/robertdebock.apt_autostart)|[![Build Status GitHub](https://github.com/buluma/robertdebock.apt_autostart/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/robertdebock.apt_autostart/actions)|[![Build Status GitLab ](https://gitlab.com/buluma/robertdebock.apt_autostart/badges/main/pipeline.svg)](https://gitlab.com/buluma/robertdebock.apt_autostart)|
+|[buluma.apt_autostart](https://galaxy.ansible.com/buluma/apt_autostart)|[![Build Status GitHub](https://github.com/buluma/ansible-role-apt_autostart/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-apt_autostart/actions)|[![Build Status GitLab ](https://gitlab.com/buluma/ansible-role-apt_autostart/badges/master/pipeline.svg)](https://gitlab.com/buluma/ansible-role-apt_autostart)|
 |[buluma.bootstrap](https://galaxy.ansible.com/buluma/bootstrap)|[![Build Status GitHub](https://github.com/buluma/ansible-role-bootstrap/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-bootstrap/actions)|[![Build Status GitLab ](https://gitlab.com/buluma/ansible-role-bootstrap/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-bootstrap)|
 
 ## [Context](#context)

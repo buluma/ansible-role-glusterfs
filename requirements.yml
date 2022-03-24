@@ -1,6 +1,6 @@
 ---
 roles:
-  - name: robertdebock.apt_autostart
+  - name: buluma.apt_autostart
   - name: buluma.bootstrap
 collections:
   - name: ansible.posix
