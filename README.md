@@ -2,9 +2,9 @@
 
 Install and configure glusterfs on your system.
 
-|GitHub|GitLab|Downloads|Version|Issues|Pull Requests|
-|------|------|-------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-glusterfs/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-glusterfs/actions/workflows/molecule.yml)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-glusterfs/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-glusterfs)|[![downloads](https://img.shields.io/ansible/role/d/4719)](https://galaxy.ansible.com/buluma/glusterfs)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-glusterfs.svg)](https://github.com/buluma/ansible-role-glusterfs/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-glusterfs.svg)](https://github.com/buluma/ansible-role-glusterfs/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-glusterfs.svg)](https://github.com/buluma/ansible-role-glusterfs/pulls/)|
+|GitHub|Version|Issues|Pull Requests|
+|------|-------|------|-------------|
+|[![github](https://github.com/buluma/ansible-role-glusterfs/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-glusterfs/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-glusterfs.svg)](https://github.com/buluma/ansible-role-glusterfs/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-glusterfs.svg)](https://github.com/buluma/ansible-role-glusterfs/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-glusterfs.svg)](https://github.com/buluma/ansible-role-glusterfs/pulls/)|
 
 ## [Example Playbook](#example-playbook)
 
@@ -70,10 +70,10 @@ glusterfs_volumes: []
 
 The following roles are used to prepare a system. You can prepare your system in another way.
 
-| Requirement | GitHub | GitLab |
+| Requirement | GitHub | Version |
 |-------------|--------|--------|
-|[buluma.apt_autostart](https://galaxy.ansible.com/buluma/apt_autostart)|[![Build Status GitHub](https://github.com/buluma/ansible-role-apt_autostart/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-apt_autostart/actions)|[![Build Status GitLab](https://gitlab.com/shadowwalker/ansible-role-apt_autostart/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-apt_autostart)|
-|[buluma.bootstrap](https://galaxy.ansible.com/buluma/bootstrap)|[![Build Status GitHub](https://github.com/buluma/ansible-role-bootstrap/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-bootstrap/actions)|[![Build Status GitLab](https://gitlab.com/shadowwalker/ansible-role-bootstrap/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-bootstrap)|
+|[buluma.apt_autostart](https://galaxy.ansible.com/buluma/apt_autostart)|[![Build Status GitHub](https://github.com/buluma/ansible-role-apt_autostart/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-apt_autostart/actions)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-apt_autostart.svg)](https://github.com/shadowwalker/ansible-role-apt_autostart)|
+|[buluma.bootstrap](https://galaxy.ansible.com/buluma/bootstrap)|[![Build Status GitHub](https://github.com/buluma/ansible-role-bootstrap/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-bootstrap/actions)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-bootstrap.svg)](https://github.com/shadowwalker/ansible-role-bootstrap)|
 
 ## [Context](#context)
 
@@ -113,7 +113,6 @@ If you find issues, please register them in [GitHub](https://github.com/buluma/a
 
 [buluma](https://buluma.github.io/)
 
-Please consider [sponsoring me](https://github.com/sponsors/buluma).
 
 ### [Special Thanks](#special-thanks)
 
