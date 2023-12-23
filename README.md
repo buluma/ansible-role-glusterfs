@@ -111,7 +111,7 @@ If you find issues, please register them in [GitHub](https://github.com/buluma/a
 
 ## [Author Information](#author-information)
 
-[Robert de Bock](https://buluma.github.io/)
+[buluma](https://buluma.github.io/)
 
 Please consider [sponsoring me](https://github.com/sponsors/buluma).
 
