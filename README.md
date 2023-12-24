@@ -1,10 +1,10 @@
-# [Ansible role glusterfs](#glusterfs)
+# Ansible role [glusterfs](https://galaxy.ansible.com/ui/standalone/roles/buluma/glusterfs/documentation)
 
 Install and configure glusterfs on your system.
 
-|GitHub|Version|Issues|Pull Requests|
-|------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-glusterfs/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-glusterfs/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-glusterfs.svg)](https://github.com/buluma/ansible-role-glusterfs/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-glusterfs.svg)](https://github.com/buluma/ansible-role-glusterfs/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-glusterfs.svg)](https://github.com/buluma/ansible-role-glusterfs/pulls/)|
+|GitHub|Version|Issues|Pull Requests|Downloads|
+|------|-------|------|-------------|---------|
+|[![github](https://github.com/buluma/ansible-role-glusterfs/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-glusterfs/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-glusterfs.svg)](https://github.com/buluma/ansible-role-glusterfs/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-glusterfs.svg)](https://github.com/buluma/ansible-role-glusterfs/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-glusterfs.svg)](https://github.com/buluma/ansible-role-glusterfs/pulls/)|[![Ansible Role](https://img.shields.io/ansible/role/d/buluma/glusterfs)](https://galaxy.ansible.com/ui/standalone/roles/buluma/glusterfs/documentation)|
 
 ## [Example Playbook](#example-playbook)
 
@@ -107,13 +107,11 @@ If you find issues, please register them in [GitHub](https://github.com/buluma/a
 
 ## [License](#license)
 
-[Apache-2.0](https://github.com/buluma/ansible-role-glusterfs/blob/master/LICENSE).
+[Apache-2.0](https://github.com/buluma/ansible-role-glusterfs/blob/master/LICENSE)
 
 ## [Author Information](#author-information)
 
-[buluma](https://buluma.github.io/)
+[Shadow Walker](https://buluma.github.io/)
 
-
-### [Special Thanks](#special-thanks)
 
 Template inspired by [Robert de Bock](https://github.com/robertdebock)
