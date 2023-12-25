@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-glusterfs/tree/HEAD)
+## [1.0.4](https://github.com/buluma/ansible-role-glusterfs/tree/1.0.4) (2023-12-25)
 
-[Full Changelog](https://github.com/buluma/ansible-role-glusterfs/compare/1.0.3...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-glusterfs/compare/1.0.3...1.0.4)
 
 **Closed issues:**
 
