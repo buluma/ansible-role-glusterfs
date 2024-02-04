@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.2.0](https://github.com/buluma/ansible-role-glusterfs/tree/1.2.0) (2024-01-20)
+
+[Full Changelog](https://github.com/buluma/ansible-role-glusterfs/compare/1.1.0...1.2.0)
+
 ## [1.1.0](https://github.com/buluma/ansible-role-glusterfs/tree/1.1.0) (2024-01-02)
 
 [Full Changelog](https://github.com/buluma/ansible-role-glusterfs/compare/1.0.4...1.1.0)
