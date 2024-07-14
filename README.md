@@ -14,8 +14,8 @@ This example is taken from [`molecule/default/converge.yml`](https://github.com/
 ---
 - name: Converge
   hosts: all
-  become: yes
-  gather_facts: yes
+  become: true
+  gather_facts: true
 
   roles:
     - role: buluma.glusterfs
@@ -27,8 +27,8 @@ The machine needs to be prepared. In CI this is done using [`molecule/default/pr
 ---
 - name: Prepare
   hosts: all
-  gather_facts: no
-  become: yes
+  gather_facts: false
+  become: true
 
   roles:
     - role: buluma.bootstrap
@@ -90,7 +90,7 @@ This role has been tested on these [container images](https://hub.docker.com/u/b
 |container|tags|
 |---------|----|
 |[Debian](https://hub.docker.com/r/buluma/debian)|bullseye|
-|[Fedora](https://hub.docker.com/r/buluma/fedora)|all|
+|[Fedora](https://hub.docker.com/r/buluma/fedora)|38, 39, 40|
 |[Ubuntu](https://hub.docker.com/r/buluma/ubuntu)|all|
 
 The minimum version of Ansible required is 2.12, tests have been done to:
