@@ -1,5 +1,14 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-glusterfs/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-glusterfs/compare/24.3.31...HEAD)
+
+**Closed issues:**
+
+- Update action [\#15](https://github.com/buluma/ansible-role-glusterfs/issues/15)
+- rebuild action [\#14](https://github.com/buluma/ansible-role-glusterfs/issues/14)
+
 ## [24.3.31](https://github.com/buluma/ansible-role-glusterfs/tree/24.3.31) (2024-03-29)
 
 [Full Changelog](https://github.com/buluma/ansible-role-glusterfs/compare/1.2.0...24.3.31)
