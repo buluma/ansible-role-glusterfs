@@ -1,0 +1,11 @@
+digraph PhiloDilemma {
+  label = "Michael Buluma" ;
+  overlap=false
+  {
+    "glusterfs" [fillcolor=yellow style=filled penwidth=3]
+    "buluma.apt_autostart" [fillcolor=green style=filled]
+    "buluma.bootstrap" [fillcolor=green style=filled]
+  }
+  "glusterfs" -> "buluma.apt_autostart"
+  "glusterfs" -> "buluma.bootstrap"
+}
