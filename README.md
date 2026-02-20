@@ -51,7 +51,6 @@ The default values for the variables are set in [`defaults/main.yml`](https://gi
 #     device: /dev/vdb
 #     mountpoint: /data/brick1
 glusterfs_bricks: []
-
 # A list of volumes and their properties.
 # glusterfs_volumes:
 #   - name: gv0
