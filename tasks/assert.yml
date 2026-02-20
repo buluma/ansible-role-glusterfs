@@ -1,5 +1,4 @@
 ---
-
 - name: assert | Test glusterfs_bricks
   ansible.builtin.assert:
     that:
