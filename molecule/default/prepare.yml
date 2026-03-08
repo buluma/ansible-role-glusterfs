@@ -5,5 +5,5 @@
   become: true
 
   roles:
-  - role: buluma.bootstrap
-  - role: buluma.apt_autostart
+    - role: buluma.bootstrap
+    - role: buluma.apt_autostart
