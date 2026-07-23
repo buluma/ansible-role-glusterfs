@@ -2,10 +2,9 @@
 # Pins the CI platform/version matrix for this role. Without this, ansible-generator
 # falls back to default_platforms and silently discards these choices on regenerate.
 platforms:
-  - name: EL
-    versions:
-      - "10"
-      - "9"
+  # EL excluded: glusterfs-server isn't in EL9/10's base/AppStream repos
+  # (only the client-only "glusterfs" package is); the server component
+  # needs a SIG or gluster.org repo this role doesn't set up.
   - name: Debian
     versions:
       - all
